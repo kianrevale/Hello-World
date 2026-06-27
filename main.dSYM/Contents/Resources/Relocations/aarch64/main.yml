@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kianrevale/Code/Lab_1 Hello_world/Hello-World/main'
+relocations:     []
+...
